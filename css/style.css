@@ -1,7 +1,18 @@
 body {
     background-color: greenyellow;
 }
+html, body {
+    margin: 0;
+    padding: 0;
+}
 header {
     text-align: center;
-    background-color: blue;
+    background-color: red;
+    padding: 20px;
+}
+header img {
+    width: 300px;
+    height: 300px;
+    border: 20px solid rgb(0, 0, 0);
+    border-radius: 50%;
 }
