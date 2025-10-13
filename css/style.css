@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap');
+
 body {
     background-color: blue;
 }
@@ -7,7 +9,7 @@ html, body {
 }
 header {
     text-align: center;
-    background-color: violet;
+    background-color: grey;
     padding: 20px;
 }
 header img {
@@ -15,4 +17,14 @@ header img {
     height: 300px;
     border: 20px solid red;
     border-radius: 50%;
+}
+
+header h1 {
+  font-family: "Pixelify Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 50px;
+  margin: 10px 0 20px 0;
+  color: red;
 }
