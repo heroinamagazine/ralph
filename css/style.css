@@ -1,5 +1,5 @@
 body {
-    background-color: greenyellow;
+    background-color: blue;
 }
 html, body {
     margin: 0;
@@ -7,12 +7,12 @@ html, body {
 }
 header {
     text-align: center;
-    background-color: red;
+    background-color: violet;
     padding: 20px;
 }
 header img {
     width: 300px;
     height: 300px;
-    border: 20px solid rgb(0, 0, 0);
+    border: 20px solid red;
     border-radius: 50%;
 }
