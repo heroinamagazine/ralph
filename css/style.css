@@ -12,11 +12,17 @@ header {
     background-color: black;
     padding: 20px;
 }
-header img {
+
+header .pfp {
     width: 300px;
     height: 300px;
     border: 20px solid red;
     border-radius: 50%;
+    background-image: url(./../img/ralph-with-little-girl.webp);
+    background-repeat: no-repeat;
+    background-position: -170px -40px;
+    background-size: 200%;
+    margin: 0 auto 0 auto;
 }
 
 header h1 {
