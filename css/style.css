@@ -82,7 +82,7 @@ a:visited {
 }
 
 footer {
-    width: 800px;
+    width: 100%;
     margin: 0 auto;
     background-color: yellow;
 }
@@ -92,5 +92,5 @@ footer .content {
     margin: 0 auto;
 
 footer a {
-    
+
 }
