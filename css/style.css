@@ -80,3 +80,17 @@ a:active {
 a:visited {
     color:purple;
 }
+
+footer {
+    width: 800px;
+    margin: 0 auto;
+    background-color: yellow;
+}
+
+footer .content {
+    width: 800px
+    margin: 0 auto;
+
+footer a {
+    
+}
