@@ -2,6 +2,9 @@
 
 body {
     background-color: lightslategray;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    line-height: 1.6;
 }
 html, body {
     margin: 0;
@@ -11,6 +14,14 @@ header {
     text-align: center;
     background-color: black;
     padding: 20px;
+}
+
+p.caption {
+    text-align: center;
+    font-size: 18px;
+    font-style: italic;
+    color: black;
+    font-style: italic;
 }
 
 header .pfp {
@@ -25,12 +36,31 @@ header .pfp {
     margin: 0 auto 0 auto;
 }
 
-header h1 {
+h1 {
   font-family: "Pixelify Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  font-size: 50px;
+  font-size: 70px;
   margin: 10px 0 20px 0;
   color: red;
 }
+
+h2 {
+   font-family: "Pixelify Sans", sans-serif;
+   font-optical-sizing: auto;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 60px;
+   margin: 20px 0 10px 0;
+   color: black;
+}
+
+main{
+    width: 800px;
+    margin: 0 auto;
+}
+
+main img {
+    max-width: 100%;
+}   
