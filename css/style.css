@@ -16,7 +16,7 @@ header {
     padding: 20px;
 }
 
-p .caption {
+p.caption {
     text-align: center;
     font-size: 18px;
     font-style: italic;
