@@ -36,6 +36,13 @@ p.caption {
     margin: 0 auto 0 auto;
 }
 
+.pfp.vanellope {
+    background-image: url(./../img/vanellope-von-schweetz.webp);
+    background-position: -215px -11px;
+    background-size: 200%;
+    border-color: turquoise;
+}
+
 @media (max-width: 600px) {
     .pfp {
         width: 150px;
@@ -78,7 +85,7 @@ h2 {
 }
 
 main{
-    max-width: 800px;
+    max-width: 600px;
     margin: 0 auto;
     padding: 0 20px;
 }
